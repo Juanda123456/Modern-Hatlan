@@ -1,16 +1,16 @@
 [
 	{
 		"name": "Training grounds",
-		"replaces": "Hatlan Autocracy",
-		"uniqueTo": "Binibo",
+		"replaces": "Barracks",
+		"uniqueTo": "Hatlan Autocracy",
 		"cost": 80,
 		"uniques": ["New [Military] units start with [30] XP [in this city]"],
 		"requiredTech": "Bronze Working"
 	}
 	{
 		"name": "Debate Hall",
-		"replaces": "Hatlan Autocracy",
-		"uniqueTo": "Binibo",
+		"replaces": "Library",
+		"uniqueTo": "Hatlan Autocracy",
 		"cost": 80,
 		"uniques": ["[+2 Science] per [2] population [in this city]"],
 		"requiredTech": "Writing"
