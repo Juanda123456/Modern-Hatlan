@@ -30,7 +30,7 @@
 		"outerColor": [200,200,200],
 		"innerColor": [167,0,0],
 		"uniquename": ["Autocracy of the Great"],
-		"uniques": [ "[+40]% Strength", "[+25]% Strength <when fighting in [Friendly Land] tiles>", "[+15]% [Production] [in all cities]" ],
+		"uniques": [ "[+30]% Strength", "[+25]% Strength <when fighting in [Friendly Land] tiles>", "[+15]% [Production] [in all cities]" ],
 		"cities": ["Hatlagom", "Karsag", "Darapant", "Uhgo", "Birim", "Kawamed", "Gatlpa"],
 	}
 ]
