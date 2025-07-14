@@ -28,7 +28,7 @@
 		"tradeRequest": "Is this fair to you?",
 
 		"outerColor": [0,0,0],
-		"innerColor": [167,0,0],
+		"innerColor": [200,200,200],
 		"uniquename": ["Autocracy of the Great"],
 		"uniques": [ "[+30]% Strength", "[+25]% Strength <when fighting in [Friendly Land] tiles>", "[+15]% [Production] [in all cities]" ],
 		"cities": ["Hatlagom", "Karsag", "Darapant", "Uhgo", "Birim", "Kawamed", "Gatlpa"],
