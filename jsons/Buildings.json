@@ -20,7 +20,7 @@
 		"uniqueTo": "Hatlan Autocracy",
 		"isNationalWonder": true,
 		"cost": 90,
-		"uniques": ["Provides [2] [Iron], [+10]% [Production]"],
+		"uniques": ["Provides [2] [Iron], [+1 Production] per [2] population [in this city]"],
 		"requiredTech": "Iron Working"
 	}
 	{
