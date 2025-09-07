@@ -5,8 +5,8 @@
 		"uniqueTo": "Hatlan Autocracy",
 		"replaces": "Mechanized Infantry",
 		"movement": 3,
-		"strength": 93,
-		"cost": 385,
+		"strength": 110,
+		"cost": 550,
 		"requiredTech": "Mobile Tactics",
 		"attackSound": "machinegun"
 	}
